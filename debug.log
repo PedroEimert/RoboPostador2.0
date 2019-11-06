@@ -1,0 +1,20 @@
+[1029/221105.638:ERROR:file_io.cc(134)] WriteFile: O pipe está sendo fechado. (0xE8)
+[1029/224627.209:ERROR:file_io.cc(134)] WriteFile: O pipe está sendo fechado. (0xE8)
+[1030/015148.054:ERROR:file_io.cc(134)] WriteFile: O pipe está sendo fechado. (0xE8)
+[1029/232749.955:ERROR:file_io.cc(134)] WriteFile: O pipe está sendo fechado. (0xE8)
+[1029/234121.471:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1029/235317.512:ERROR:file_io.cc(134)] WriteFile: O pipe está sendo fechado. (0xE8)
+[1030/012436.959:ERROR:file_io.cc(134)] WriteFile: O pipe está sendo fechado. (0xE8)
+[1105/021309.264:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1105/021309.265:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1105/021309.265:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1105/021309.265:ERROR:exception_snapshot_win.cc(98)] thread ID 4976 not found in process
+[1105/040618.612:ERROR:file_io.cc(134)] WriteFile: O pipe está sendo fechado. (0xE8)
+[1105/092421.595:ERROR:process_info.cc(329)] VirtualQueryEx: Acesso negado. (0x5)
+[1105/092421.622:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1105/092421.622:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[1105/092421.622:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[1105/094736.242:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1105/094736.243:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1105/094736.243:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1105/094736.243:ERROR:exception_snapshot_win.cc(98)] thread ID 5312 not found in process
